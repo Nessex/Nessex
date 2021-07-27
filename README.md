@@ -3,6 +3,7 @@
 
 ![Nessex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessex&count_private=true&theme=onedark)
 
+[![rdst](https://github-readme-stats.vercel.app/api/pin/?username=Nessex&repo=rdst&theme=onedark)](https://github.com/Nessex/rdst)
 [![yaml2json-rs](https://github-readme-stats.vercel.app/api/pin/?username=Nessex&repo=yaml2json-rs&theme=onedark)](https://github.com/Nessex/yaml2json-rs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessex&theme=onedark&hide=html,css&layout=compact)
